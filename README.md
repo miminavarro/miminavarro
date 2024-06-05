@@ -1,4 +1,4 @@
-### Olá! Eu sou a Milena 👋
+## Olá! Eu sou a Milena 👋
 
 - 🔬 Atualmente trabalho como Biologista
 - 📚 Estou estudando Análise e Desenvolvimento de Sistemas
@@ -8,6 +8,10 @@
 - ⚡ Adoro ler quadrinhos, mangás, literatura, sair para festivais de música e exposições de arte
 
 ![Milena's GitHub stats](https://github-readme-stats.vercel.app/api?username=miminavarro&show_icons=true&theme=radical)
+
+## Linguagens mais utilizadas:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miminavarro&langs_count=8)
 
 
 
