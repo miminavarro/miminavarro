@@ -4,7 +4,6 @@
 - 🔬 Atualmente traballho como Biologista;
 - 📚 Sou estudante de Análise e Desenvolvimento de Sistemas;
 - 💻 Busco por oportunidades de freelancer, estágio e trainee na área;
-- 🔬 Atualmente trabalho como analista clínica e pretendo migrar para área de tecnologia;
 - ⚡Adoro ouvir música, ler quadrinhos, ficção científica, ciência e literatura em geral.
 
 ## Conecte-se Comigo 🔗
