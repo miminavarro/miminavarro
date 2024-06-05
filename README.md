@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Domine&pause=1000&color=9818DB&background=FDFDFD01&random=false&width=435&separator=%3C&lines=alert+('Hello+World!');+Me+chamo+Milena!%3CBem+vindo(a)+ao+meu+Github!)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Domine&pause=1000&color=9818DB&background=FDFDFD01&random=false&width=435&separator=%3C&lines=print+("Hello+World!");+Me+chamo+Milena!%3CBem+vindo(a)+ao+meu+Github!)](https://git.io/typing-svg)
 
 # Sobre mim 👩🏻‍💻
 - 🔬 Atualmente traballho como Biologista;
