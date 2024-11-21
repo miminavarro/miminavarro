@@ -21,6 +21,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&color=8232D2)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white&color=B77CF2)
 ![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=white&color=8232D2)
+![Power BI](https://img.shields.io/badge/Power_BI-3670A0?style=for-the-badge&logo=powerBI&logoColor=white&color=B77CF2)
 
 ## Github Stats 🔛
 
